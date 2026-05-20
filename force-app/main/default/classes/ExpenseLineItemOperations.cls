@@ -1,4 +1,3 @@
-//ExpenseLineItemOperations Apex Class
 public with sharing class ExpenseLineItemOperations {
     //inner wrapper class
     public with sharing class ResponseWrapper {
