@@ -1,4 +1,5 @@
-public without sharing class AccountOperations {
+// AccountOperationsController.cls
+// This class contains a method to search for an public without sharing class AccountOperations {
     @AuraEnabled
     public static string searchAccountRecord(String accountId){
         try {
@@ -9,5 +10,4 @@ public without sharing class AccountOperations {
             throw new AuraHandledException(e.getMessage());
         }
     }
-
 }
