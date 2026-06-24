@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Auto_Populated_Description__c</fullName>
+    <description>Auto-populated by Account_Description_Auto_Populate flow on Account create.</description>
+    <inlineHelpText>Format: &quot;[Type] Name&quot;. Populated by record-triggered flow.</inlineHelpText>
+    <label>Auto-Populated Description</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+</CustomField>

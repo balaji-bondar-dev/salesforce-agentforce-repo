@@ -6,6 +6,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ApexComponent</name>
     </types>
     <types>
@@ -19,6 +23,10 @@
     <types>
         <members>*</members>
         <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Flow</name>
     </types>
     <types>
         <members>*</members>
